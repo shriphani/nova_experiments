@@ -4,3 +4,4 @@
 - [ ] Recursive verification of arbitrary proof
 - [ ] Circuit 2 : Verifies 8 Circuit 1s
 - [ ] Circuit 3 : Verifies 2 Circuit 2s
+- [ ] Rollup : 1024 pre-image proofs verified in 1 proof
