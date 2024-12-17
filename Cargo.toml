@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+bellperson = "0.26"
+nova-snark = { git = "https://github.com/microsoft/Nova.git" }
+ff = { version = "0.13.0", features = ["derive"] }
+neptune = "13.0.0"
